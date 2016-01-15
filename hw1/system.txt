@@ -1,1 +1,0 @@
-Linux owner-VirtualBox 4.2.0-23-generic #28-Ubuntu SMP Sun Dec 27 17:47:31 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
